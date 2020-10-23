@@ -1,4 +1,4 @@
-# Arquitectura ARM32
+![](https://github.com/RegaladoEdgar/programas/blob/main/unidad2/imagenes/cooltext366383391593318%20(1).png)
 
 ARM es una arquitectura CISC(*Computadora de conjunto de instrucciones reducidas*). 
 
