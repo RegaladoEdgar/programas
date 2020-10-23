@@ -17,9 +17,10 @@ int main() {
 	int numero = 0;
 	for(int i = 0; i < tamano; i++) {
 		numero = rand() % 1000; //numero del 0 al 1000
-		cout << i + 1<< ": " << numero << endl;
+		cout << "(" << i + 1 << ": " << numero << ")" << ",";
 		sumatoria += numero;
  	}
+	cout << endl;
 
  	cout << "promedio: " << (double) sumatoria / tamano << endl;
 	return 0;
